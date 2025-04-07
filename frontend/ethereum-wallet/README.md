@@ -25,8 +25,8 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ethereum-wallet-dashboard.git
-cd ethereum-wallet-dashboard
+git clone https://github.com/MinhWalker/project-exam.git
+cd frontend/ethereum-wallet
 ```
 2. Install Dependency:
 
